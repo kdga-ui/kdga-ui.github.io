@@ -10,7 +10,7 @@
                        888          
                   Y8b d88P          
                    "Y88P"           
-kdga-obfuscator Version 13
+kdga_obfuscator Version 13
 
         Built for Protection
 
@@ -19,7 +19,7 @@ kdga-obfuscator Version 13
     Kdga Anti Ip Logger
         Obfuscated only to avoid skids
 
-DM kdga_o for questions
+DM getexecutorname on discord for questions
 --]]
 
 return (function(a, b, c, d, e)
