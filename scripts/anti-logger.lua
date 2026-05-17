@@ -19,7 +19,7 @@ kdga_obfuscator Version 13
     Kdga Anti Ip Logger
         Obfuscated only to avoid skids
 
-DM getexecutorname on discord for questions
+DM z_as1 on discord for questions
 --]]
 
 return (function(a, b, c, d, e)
