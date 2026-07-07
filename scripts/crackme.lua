@@ -11,7 +11,7 @@
                   Y8b d88P          
                    "Y88P"           
 kdga_obfuscator Version 13
-DM z_as1 on discord for questions
+DM z_as2 on discord for questions
         Built for Protection
 
         Built for Privacy
